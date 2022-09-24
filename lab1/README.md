@@ -13,6 +13,9 @@ In lab1.2 we create and explore our first maven project of this class.
         In the pom.xml file I inserted developer, changed the java version and inserted character encoder
 
 In lab1.3 we learn about git, add .gitignore files to the projects.
+In this exercise I wasn't really sure what was asked, in d) e) f)
+
+
 
 
 
