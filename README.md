@@ -51,3 +51,7 @@ Useful commands:
 	docker compose ps -> check what's running
 	
 	docker compose stop -> stops all services, if started by docker compose up -d
+	
+	docker pull postgres -> pull latest postgres image
+	
+	
