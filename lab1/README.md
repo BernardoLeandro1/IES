@@ -18,12 +18,11 @@ In lab1.3 we learn about git, add .gitignore files to the projects.
 
 In lab1.4 we learned about docker and some important commands. 
 
-We learned what is a Dockerfile (text document that contains all the commands a user could call on the command line to assemble an image) and a docker-compose.yml file (you use a YAML file to configure your application's services)
+    We learned what is a Dockerfile (text document that contains all the commands a user could call on the command line to assemble an image) and a docker-compose.yml file (you use a YAML file to configure your application's services)
 
 
 In lab 1.5, I needed to put the artifact of ipmaclient on the pom.xml of weatherforecast 
 
 During this lab I also made a general notebook, which will be updated in every lab, that contains the most important/useful commands.
-
 
 From now on, groupID = labX and artifactID = exY, X being the lab number and Y being the exercise number from labX
