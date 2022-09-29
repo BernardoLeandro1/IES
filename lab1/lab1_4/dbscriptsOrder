@@ -1,0 +1,6 @@
+DROP TABLE IF EXISTS testtable;
+
+CREATE TABLE "testing" (
+    id serial Primary KEY NOT NULL, 
+    name character varying(30) NOT NULL
+)
