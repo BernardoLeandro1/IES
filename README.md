@@ -9,6 +9,8 @@ Useful commands:
 	mvn package -> get dependencies, compiles the project and creates the jar
 	
 	mvn exec:java -Dexec.mainClass="package.ClassName" -> Executes the file, adapt to match your own package and class name
+
+	mvn install -DskipTests && java -jar target\webapp1-0.0.1-SNAPSHOT.jar or ./mvnw spring-boot:run -> build the Spring Boot application
  
  - For Git:
  	
