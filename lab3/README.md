@@ -40,6 +40,12 @@ QUESTIONS:
     b) Create a visualization of the Spring Boot layers (UML diagram or similar), displaying the key abstractions in the solution of 3.3, in particular: entities repositories, services and REST controllers.
     Describe the role of the elements modeled in the diagram.
 
-    C) Explain the annotations @Table, @Colum, @Id found in the Employee entity.
+    C) Explain the annotations @Table, @Column, @Id found in the Employee entity.
+
+        @Table - Creates the table in the database
+        @Id - Offers the simplest mechanism to define the mapping to the primary key
+        @Column - Allows variable to become a table in the database
 
     D) Explain the use of the annotation @AutoWired (in the Rest Controller class).
+
+        @Autowired - allows Spring to resolve and inject collaborating beans into our bean
