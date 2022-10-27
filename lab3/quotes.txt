@@ -1,0 +1,82 @@
+[
+    {
+        "content": "We were on a break!",
+        "movie": {
+            "id": 1,
+            "title": "Friends",
+            "year": 1994
+        }
+    },
+    {
+        "content": "Hi, I'm Chandler. I make jokes when I'm uncomfortable.",
+        "movie": {
+            "id": 1,
+            "title": "Friends",
+            "year": 1994
+        }
+    },
+    {
+        "content": "Whenever I'm sad, I stop being sad and be awesome instead.",
+        "movie": {
+            "id": 2,
+            "title": "How I met your mother",
+            "year": 2005
+        }
+    },
+    {
+        "content": "A lie is just a great story that someone ruined with the truth.",
+        "movie": {
+            "id": 2,
+            "title": "How I met your mother",
+            "year": 2005
+        }
+    },
+    {
+        "content": "I'm gonna go cry in the bathroom, peace out homies",
+        "movie": {
+            "id": 3,
+            "title": "Brooklyn 99",
+            "year": 2013
+        }
+    },
+    {
+        "content": "Anyone over the age of six celebrating a birthday should go to hell.",
+        "movie": {
+            "id": 3,
+            "title": "Brooklyn 99",
+            "year": 2013
+        }
+    },
+    {
+        "content": "If you ain't scared… you ain't human.",
+        "movie": {
+            "id": 4,
+            "title": "The Maze Runner",
+            "year": 2014
+        }
+    },
+    {
+        "content": "It's kind of hard to ask a dead guy what he did wrong.",
+        "movie": {
+            "id": 4,
+            "title": "The Maze Runner",
+            "year": 2014
+        }
+    },
+    {
+        "content": "You are a good man, with a good heart. And it's hard for a good man to be a king.",
+        "movie": {
+            "id": 5,
+            "title": "Black Panther",
+            "year": 2018
+        }
+    },
+    {
+        "content": "Evacuate the city, engage all defenses…and get this man a shield!",
+        "movie": {
+            "id": 5,
+            "title": "Black Panther",
+            "year": 2018
+        }
+    }
+ ]
